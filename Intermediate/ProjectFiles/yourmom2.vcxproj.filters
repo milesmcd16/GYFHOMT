@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\yourmom2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E46E95C0-B4CD-4B1C-8144-CEC30BE1221D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\yourmom2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\yourmom2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\dempress2.png" />
+    <None Include="..\..\dempress3.png" />
+    <None Include="..\..\README.md" />
+    <None Include="..\..\tylersmom.txt" />
+    <None Include="..\..\yourmom.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{2DB27F0F-A1B4-4212-AD16-4EFA8CDA4DD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\yourmom2">
+      <UniqueIdentifier>{809E479F-1DB8-440E-9D82-AFEB12062DD6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\yourmom2\MyCharacterMovementComponent.cpp">
+      <Filter>Source\yourmom2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yourmom2\MyCharacterMovementComponent.h">
+      <Filter>Source\yourmom2</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\yourmom2\yourmom2.Build.cs">
+      <Filter>Source\yourmom2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\yourmom2\yourmom2.cpp">
+      <Filter>Source\yourmom2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yourmom2\yourmom2.h">
+      <Filter>Source\yourmom2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
