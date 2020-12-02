@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\seito\\OneDrive\\Desktop\\yes\\GYFHOMT\\Source\\yourmom2\\yourmom2.Build.cs",
-		"C:\\Users\\seito\\OneDrive\\Desktop\\yes\\GYFHOMT\\Source\\yourmom2.Target.cs",
-		"C:\\Users\\seito\\OneDrive\\Desktop\\yes\\GYFHOMT\\Source\\yourmom2Editor.Target.cs"
+		"D:\\UnrealCS328\\GYFHOMT\\Source\\yourmom2\\yourmom2.Build.cs",
+		"D:\\UnrealCS328\\GYFHOMT\\Source\\yourmom2.Target.cs",
+		"D:\\UnrealCS328\\GYFHOMT\\Source\\yourmom2Editor.Target.cs"
 	],
 	"EngineVersion": "4.25.3"
 }
